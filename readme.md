@@ -1,2 +1,2 @@
-## hello git!
--I am adding this from 'third-branch'
+## Welcome to merge conflict git!
+-I am adding this from 'rm-1'
