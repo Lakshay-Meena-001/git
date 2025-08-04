@@ -1,2 +1,2 @@
-## hey yo!
--I am adding this from 'lm-1'
+## Welcome to merge conflict git!
+-I am adding this from 'rm-1'
